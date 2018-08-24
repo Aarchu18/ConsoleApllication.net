@@ -1,0 +1,5 @@
+c:\users\archana.kumari\documents\visual studio 2017\Projects\SplitSentence\SplitSentence\bin\Debug\SplitSentence.exe.config
+c:\users\archana.kumari\documents\visual studio 2017\Projects\SplitSentence\SplitSentence\bin\Debug\SplitSentence.exe
+c:\users\archana.kumari\documents\visual studio 2017\Projects\SplitSentence\SplitSentence\bin\Debug\SplitSentence.pdb
+c:\users\archana.kumari\documents\visual studio 2017\Projects\SplitSentence\SplitSentence\obj\Debug\SplitSentence.exe
+c:\users\archana.kumari\documents\visual studio 2017\Projects\SplitSentence\SplitSentence\obj\Debug\SplitSentence.pdb
